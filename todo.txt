@@ -3,3 +3,5 @@
 3. Create sections such as About, Projects, etc. - in progress
 4. Choose and apply good looking colour scheme
 5. For each section create meaningful description, tutorial video etc.
+6. Apply resizable sections with javascript
+7. Create navigation bar
