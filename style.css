@@ -1,18 +1,28 @@
+body 
+{
+	overflow-y: overlay;
+}
+
+header
+{
+	height: 100px;
+}
+
 .placeholder
 {
-	height: 300px;
+	height: 250px;
 	border: 2px solid #51c8b2;
 }
 
 .placeholder:hover
 {
-	background-color: #dddddd;
+	background-color: #dddddd !important;
 	cursor: pointer;
 	color: #0000ff;
 }
 
 ::-webkit-scrollbar {
-  width: 22px;
+  width: 10px;
   height: 22px;
 }
 ::-webkit-scrollbar-button {
