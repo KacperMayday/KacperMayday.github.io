@@ -5,3 +5,4 @@
 5. For each section create meaningful description, tutorial video etc.
 6. Apply resizable sections - done
 7. Create navigation bar
+8. Add favicon
