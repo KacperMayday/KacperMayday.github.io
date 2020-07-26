@@ -1,8 +1,9 @@
-1. Prepare concept layout of index.html - done
-2. Apply bootstrap - done
-3. Create sections such as About, Projects, etc. - done
-4. Choose and apply good looking colour scheme - in progress
+done 1. Prepare concept layout of index.html
+done 2. Apply bootstrap
+done 3. Create sections such as About, Projects, etc.
+in progress 4. Choose and apply good looking colour scheme
 5. For each section create meaningful description, tutorial video etc.
-6. Apply resizable sections - done
+done 6. Apply resizable sections
 7. Create navigation bar
 8. Add favicon
+done 9. Change div order when screen width is less than 500px
